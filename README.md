@@ -1,4 +1,4 @@
-BasePlugin
-==========
+myWorld
+=======
 
-A simple set-up ( Hello World ) for a minecraft plugin in NetBeans
+Minecraft Plugin - Patrick le Duc

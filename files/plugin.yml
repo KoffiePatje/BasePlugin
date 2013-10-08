@@ -1,0 +1,4 @@
+name: MyWorld
+main: nl.pleduc.mc.BasePlugin.BasePlugin
+version: 0.1
+author: KoffiePatje / Patrick le Duc
